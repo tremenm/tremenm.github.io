@@ -1,0 +1,62 @@
+body{
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  line-height: 1.6em;
+}
+#logo{
+  margin-left: 10px;
+}
+h1,h2{
+  color: #007e7e;
+}
+h3{
+  color: #d12c47;
+}
+h1{
+  font-size: 150%;
+}
+h2{
+  font-size: 130%;
+}
+#guarantee{
+  border: inset 3px pink;
+  background-color: #f0f3b0;
+  padding: 25px;
+  padding-left: 76px;
+  margin: 30px;
+  margin-right: 350px;
+  background-image: url("http://images.clipartpanda.com/star-clipart-twinkle-twinkle-little-star-clipart-clipart.png");
+  background-size:50px;
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+#drinks{
+  float: right;
+  line-height: 1.5em;
+  width: 300px;
+  border-width: 5px;
+  border-color: #c59c7e;
+  border-style: outset;
+  background-color: #fff0b9;
+  padding: 66px 40px 40px 40px;
+  text-align: center;
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS45t4uBtATfky5iDCpNjpDe3xcxNw427Vx0i_IWT5zXKjcvfr0vA");
+  background-size: 100px;
+  background-repeat:repeat-x;
+}
+.songsname{
+  font-style:italic;
+}
+.artist{
+  font-weight: bold;
+}
+a:link{
+  color: green;
+}
+a:hover{
+  color: yellow;
+  background-color: #f88396;
+}
+a:visited{
+  color: #25cecd;
+}

@@ -1,0 +1,18 @@
+body{
+  color: white;
+  background-color: brown;
+}
+p{
+  color: yellow;
+  font-style: italic;
+  font-size: 1.5em;
+}
+#purchases{
+  border: 1px solid white;
+  background-color: #333;
+  color: #ccc;
+  padding: 1em;
+}
+#purchases li{
+  font-weight: bold;
+}

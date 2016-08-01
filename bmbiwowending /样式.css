@@ -1,0 +1,28 @@
+body{
+  font-family: cursive;
+  background-color: #f3f5f7;
+  background-image: url("http://ww4.sinaimg.cn/large/005NwDaWjw1f0m96g0cpwj306k05vglh.jpg"),url("http://pic.qqtn.com/file/2013/2015-4/2015041309194285545.jpg");
+  background-attachment:fixed;
+  background-repeat:repeat-y;
+  background-position: right,left;
+  background-size: 260px 220px;
+
+}
+h1{
+  text-align: center;
+  font-size: 35px;
+  color: #444a4e;
+}
+p{
+  font-size: 19px;
+  font-weight: bold;
+  color: #fe5e40;
+  text-align: center;
+}
+.chatu,.gytangshafa,.fby,.whatever,.nengzenyang{
+  text-align: center;
+}
+h2{
+  font-weight: bold;
+  color: #ffa600;
+}
